@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+Hello, you human being.
+I'm gaimerI.
+This is my blog.
+Pronouns: any
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I write here periodically.
