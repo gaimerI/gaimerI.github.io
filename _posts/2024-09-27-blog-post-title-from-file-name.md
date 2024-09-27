@@ -7,8 +7,7 @@ This is a test. I haven't done blogging before, and I'm also new with this frame
 ### Pokemon GO
 
 I do play Pokemon GO. My favourite Pokemon are Aggron and Togedemaru.
-<img src="https://m.bulbapedia.bulbagarden.net/wiki/File:0777Togedemaru.png" alt="Togedemaru" width="460" height="345">
-<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+![Togedemaru](/gaimeri.github.io/docs/assets/togedemaru.png)
 
 #### Some PowerShell Code
 
