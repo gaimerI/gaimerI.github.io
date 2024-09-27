@@ -2,4 +2,4 @@
 layout: default
 title: Info
 ---
-{%- include info.html -%}
+{%- include info.md -%}
