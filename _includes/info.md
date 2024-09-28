@@ -1,12 +1,6 @@
-## Test
+## Websites I like
 
-This is a test. I haven't done blogging before, and I'm also new with this framework.
+Strudel REPL (https://strudel.cc/)
 
----
-
-### Pokemon GO
-
-I do play Pokemon GO. My favourite Pokemon are Aggron and Togedemaru.
-![Aggron](/docs/assets/aggron.png)
-
-![Togedemaru](/docs/assets/togedemaru.png)
+With Strudel, you can expressively write dynamic music pieces.  
+You can basically program music, which is good for my sort of non-musical people.
