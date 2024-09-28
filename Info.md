@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Info
+title: Bookmarks
 ---
 {%- include info.md -%}
